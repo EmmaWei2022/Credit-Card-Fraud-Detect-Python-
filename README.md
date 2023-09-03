@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detect-Python-
+# Credit-Card-Fraud-Detect-Python
 Update:
 
 ### Project Tasks:
